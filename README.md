@@ -1,9 +1,6 @@
-# project-1
-
- Please check the link below for your (First-Week) project homework:
- https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/?fbclid=IwAR2f5Zil6IQWWBpMxscSg8PPCR8U1stfW0APid5P9j3XTlSbQBFkxjKL6zw
- 
- ***
- This is the grading schema
- 
- https://drive.google.com/open?id=1CQULGM31thSU6JRacP-gLTzwFuNNfJseWZ2TzajwS0s
+# project 5
+Build a Random Quote Machine similar to the one shown in the link below:   
+https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/
+***
+This is the grading schema and some hints about the project:
+https://drive.google.com/open?id=1KQm5hRDmn6JjTuoQWns2p0a1Fl9xRdjIlpigLf49ea4
